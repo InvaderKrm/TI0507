@@ -1,0 +1,9 @@
+#cadastro form{
+    border: 1px solid red;
+    width: 15%;
+}
+#cadastro form label{
+    width: 100%;
+    display: block;
+    background-color: aquamarine;
+}
