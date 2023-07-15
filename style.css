@@ -39,16 +39,16 @@
     border-radius: 60px;
     text-align: left;
     border: none;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.671);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.671);
 }
 #busca form #lupa {
-    width: 15%;
+    background-image: url(lupa.png);
+    background-size: cover;
+    cursor: pointer;
+    width: 27px;
     height: 90%;
     margin-top: 0.7%;
     margin-left: 3%;
     border-radius: 110%;
     border: none;
-}
-#busca form #img {
-    size: 20%;
 }
